@@ -3,7 +3,7 @@
 
 # Emoup App
 EmoUp is the one-stop solution for all things positive. The problem with the existing solution is that they depend on the manual inputs from the user to analyze the mood, whereas we use face recognition and emotion detection with the help of neural networks. With current circumstances affecting the mental health of people, especially teens and young adults, speeches, reports, and more. It is mostly presented before an audience.
-
+### Install [App Here](https://github.com/EmoUP/EmoUP/blob/main/app-arm64-v8a-release.apk])
 <p align="center"> <img src="https://github.com/EmoUP/EmoUP/blob/main/EmoUP%20preview.png"> </p>
 
 # Objective
