@@ -1,8 +1,12 @@
 <p align="center"> <img width="300" height="250" src="https://github.com/EmoUP/EmoUP/blob/main/Group%2072.png">  </p>
 
+
 # Emoup App
 EmoUp is the one-stop solution for all things positive. The problem with the existing solution is that they depend on the manual inputs from the user to analyze the mood, whereas we use face recognition and emotion detection with the help of neural networks. With current circumstances affecting the mental health of people, especially teens and young adults, speeches, reports, and more. It is mostly presented before an audience.
 
+<p align="center"> <img src="https://github.com/EmoUP/EmoUP/blob/main/EmoUP%20preview.png"> </p>
+
+# Objective
 EmoUp’s objective is to:
 - Improve mental health.
 - Intelligently get the person's emotion 
