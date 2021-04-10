@@ -43,8 +43,8 @@ Backend | Fast API | Python | https://github.com/EmoUP/EmoUP-API
  
 #### To start App
 
- - ``` git clone https://github.com/EmoUP/FrontEnd.git ```
- - ``` cd Nooble-App ```
+ - ``` git clone https://github.com/EmoUP/EmoUP-App.git ```
+ - ``` cd EmoUP-App ```
  - ``` flutter pub get ```
  - ``` flutter run ```
 
