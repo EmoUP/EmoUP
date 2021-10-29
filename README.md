@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Name | Description | Language | Source code
 ----|------|----|----
-Frontend | Mobile Application | Flutter | https://github.com/EmoUP/EmoUP-Flutter
+Frontend | Mobile Application | Dart | https://github.com/EmoUP/EmoUP-Flutter
 Backend | Fast API | Python | https://github.com/EmoUP/EmoUP-API
 
 ## Requirements 
